@@ -1,5 +1,4 @@
 # Step 1
--------
 
 The core problem is:
 
@@ -10,14 +9,12 @@ This way i can actually study instead of saying "I will do it at home" and then 
 ---------
 
 # Step 2
--------
 
 I am going to use a desktop app created with python
 
 ----------
 
 # Step 3
--------
 
 1. Start a session
 2. End a session
@@ -28,7 +25,6 @@ I am going to use a desktop app created with python
 -----------
 
 # Step 4
---------
 
 Design:
   * Screens
@@ -41,7 +37,6 @@ See in Design file
 -------- 
 
 # Step 5
----------
 
 Plan the data
 
@@ -52,7 +47,6 @@ see in data folder
 ---------
 
 # Step 6
----------
 
 Design the map structure.
 
@@ -61,7 +55,6 @@ also see in design file
 ---------
 
 # Step 7
----------
 
 Learn what needs to be learned
 
@@ -77,7 +70,6 @@ These are the most important so if you dont know how to do this then learn it
 --------
 
 # Step 8
----------
 
 Adding the blocking feature
 
@@ -91,7 +83,6 @@ do this after:
 ----------
 
 # Step 9
----------
 
 Add features in **Tiers**
 
