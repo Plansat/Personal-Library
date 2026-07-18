@@ -95,10 +95,12 @@ Add features in **Tiers**
   * Scan QR code
   * Importing excel
 
-### Tier 2 --- Wuality of Life
-  
+### Tier 2 --- quality of Life
+   * Catogorize (Writer, Genre, Title)
+   * Do a report
+   * 
 
 ### Tier 3 --- Advanced features
-
-
+   * Check if read
+   * 
 
