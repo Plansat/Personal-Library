@@ -93,14 +93,15 @@ Add features in **Tiers**
   * Put in book
   * Access book
   * Scan QR code
-  * Importing excel
+  * Search by title
 
 ### Tier 2 --- quality of Life
-   * Catogorize (Writer, Genre, Title)
+   * Catogorize (Writer, Genre, Title, Language)
    * Do a report
-   * 
+   * Importing excel
+
 
 ### Tier 3 --- Advanced features
    * Check if read
-   * 
+   * Wishlist
 
